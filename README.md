@@ -167,12 +167,6 @@ Tienda web inspirada en Xbox con catálogo, páginas de producto, carrito de com
 
 **Tecnologías:** JavaScript · Sass · localStorage · HTML5 · Firebase Hosting
 
-### [Mac](https://github.com/MarkBettley/Mac)
-
-Proyecto de maquetación web y estilos desarrollado utilizando Sass/SCSS.
-
-**Tecnologías:** HTML · SCSS · CSS
-
 ---
 
 ## 🧠 Behavioral Science + Technology
