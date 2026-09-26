@@ -2,161 +2,209 @@
 
 ### Psicología & Neuropsicología | Software Development | Data & AI
 
-Soy psicólogo con formación de posgrado en Neuropsicología y formación técnica en desarrollo de software. Mi trayectoria combina ciencias del comportamiento con programación, análisis de datos y desarrollo de aplicaciones.
+Soy psicólogo con formación de posgrado en Neuropsicología y formación técnica en desarrollo de software. Mi perfil combina ciencias del comportamiento con programación, desarrollo backend, análisis de datos y construcción de aplicaciones.
 
-Actualmente desarrollo proyectos con **Java, Python, JavaScript, TypeScript, SQL, Django, Spring y tecnologías web**, buscando aplicar herramientas computacionales a problemas relacionados con datos, comportamiento humano y productos digitales.
+Trabajo con **Python, Java, JavaScript, TypeScript y SQL**, desarrollando proyectos que abarcan APIs REST, procesamiento y visualización de datos, aplicaciones web, persistencia, bases de datos y desarrollo Full Stack.
+
+Mi interés profesional está especialmente orientado a la intersección entre **tecnología, datos, inteligencia artificial y comportamiento humano**.
 
 📍 Pachuca de Soto, Hidalgo, México
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack tecnológico
 
 **Lenguajes**
 
-`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL` · `HTML` · `CSS/SCSS`
+`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL` · `HTML5` · `CSS3` · `SCSS`
 
-**Backend y frameworks**
+**Backend**
 
-`Spring` · `Django` · `Node.js` · `JDBC`
+`Django` · `Django REST Framework` · `Spring Boot` · `Spring Data JPA` · `Node.js` · `JDBC`
+
+**Data**
+
+`Pandas` · `PySpark` · `Plotly` · `Dash` · `Jupyter Notebook`
+
+**Frontend**
+
+`React` · `React Router` · `Axios` · `Styled Components` · `Sass`
 
 **Bases de datos**
 
-`MySQL` · `SQL`
+`MySQL` · `H2` · `SQL`
 
 **Herramientas**
 
-`Git` · `GitHub` · `Gradle` · `Docker` · `Jupyter Notebook`
+`Git` · `GitHub` · `Docker` · `Gradle` · `Maven` · `Firebase`
 
 ---
 
 # 🚀 Proyectos
 
-## ☕ Java & Backend
+## 🐍 Python, Data & Backend
 
-### [Biblioteca Java / Proyectos Java](https://github.com/MarkBettley/java-)
-Colección de proyectos desarrollados durante mi formación en backend con Java, incluyendo programación orientada a objetos, Gradle, JUnit, patrones de diseño, persistencia, bases de datos y aplicaciones de biblioteca.
+### [Python, Django & Data Portfolio](https://github.com/MarkBettley/django)
 
-**Tecnologías:** Java · Gradle · JUnit · JDBC · MySQL
+Proyecto integral en Python que reúne desarrollo backend y análisis de datos.
 
-### [JDBC y CRUD con MySQL](https://github.com/MarkBettley/ebac-backend-java-modulo59)
-Aplicación backend enfocada en persistencia mediante JDBC y operaciones CRUD utilizando MySQL.
+Incluye:
 
-**Tecnologías:** Java · JDBC · MySQL
+- Django y Django REST Framework.
+- APIs REST y operaciones CRUD.
+- Serialización, paginación y autenticación.
+- Dashboard financiero de e-commerce con Dash y Plotly.
+- Análisis de ventas con Pandas.
+- Procesamiento de datos con PySpark.
+- Sistema heurístico de recomendación de productos.
+- Web scraping con Requests y BeautifulSoup.
+- Implementación educativa de blockchain.
+- Jupyter Notebooks sobre Python, Django, REST, datos y PySpark.
 
-### [Spring](https://github.com/MarkBettley/spring)
-Ejercicios y proyectos de formación orientados al desarrollo de aplicaciones Java con Spring.
-
-**Tecnologías:** Java · Spring
-
-### [Persistencia](https://github.com/MarkBettley/persistencia)
-Ejercicios relacionados con persistencia de datos y acceso a bases de datos desde Java.
-
-**Tecnologías:** Java · SQL
-
-### [Java](https://github.com/MarkBettley/Java)
-Ejercicios y proyectos realizados durante mi aprendizaje del ecosistema Java.
-
-**Tecnologías:** Java
-
----
-
-## 🐍 Python
-
-### [Django](https://github.com/MarkBettley/django)
-Proyecto de formación en desarrollo backend con Python y Django, integrando fundamentos de programación orientada a objetos y desarrollo web.
-
-**Tecnologías:** Python · Django · Jupyter Notebook
+**Tecnologías:** Python · Django · DRF · Pandas · PySpark · Dash · Plotly · BeautifulSoup · Jupyter
 
 ### [Backend Python](https://github.com/MarkBettley/backen-python-curse)
-Ejercicios y prácticas realizados durante mi formación en desarrollo backend con Python.
+
+Ejercicios y prácticas desarrollados durante mi formación en Backend Python.
 
 **Tecnologías:** Python · Jupyter Notebook
 
 ---
 
-## ⚡ JavaScript & TypeScript
+## ☕ Java & Backend
 
-### [Apple Music Clone - Final](https://github.com/MarkBettley/apple-music-clone-final)
-Proyecto frontend inspirado en una interfaz de plataforma musical, desarrollado como parte de mi formación en JavaScript.
+### [Java Backend Portfolio](https://github.com/MarkBettley/java-)
 
-**Tecnologías:** JavaScript · HTML · CSS
+Colección de proyectos desarrollados durante mi formación en Backend Java.
+
+Incluye programación orientada a objetos, bases de datos, JUnit, patrones de diseño, Gradle, JDBC, MySQL y ejercicios de Spring Boot.
+
+**Tecnologías:** Java · Gradle · JUnit · JDBC · MySQL · Spring Boot
+
+### [Spring Boot Productos](https://github.com/MarkBettley/spring-boot-productos)
+
+Proyecto progresivo desarrollado con Java 17 y Spring Boot a través de diferentes módulos de formación.
+
+**Tecnologías:** Java 17 · Spring Boot · Spring Web · JPA · H2 · Testing
+
+### [Java SOAP & JPA](https://github.com/MarkBettley/java-soap-jpa-modulo65)
+
+Proyecto backend que integra un servicio SOAP y una aplicación basada en Spring Data JPA.
+
+**Tecnologías:** Java · Spring Boot · SOAP · JPA · MySQL · H2 · Maven
+
+### [JDBC & CRUD con MySQL](https://github.com/MarkBettley/ebac-backend-java-modulo59)
+
+Aplicación enfocada en persistencia y operaciones CRUD mediante JDBC.
+
+**Tecnologías:** Java · JDBC · MySQL
+
+### [Java REST Client](https://github.com/MarkBettley/ebac-rest-client)
+
+Cliente REST desarrollado en Java como parte de mi formación Backend.
+
+**Tecnologías:** Java · REST
+
+### [Java Web Application](https://github.com/MarkBettley/ebac-webapp)
+
+Aplicación web Java desarrollada durante mi formación en Backend Java.
+
+**Tecnologías:** Java · Web · Maven
+
+### [Spring](https://github.com/MarkBettley/spring)
+
+Ejercicios y prácticas orientados al desarrollo de aplicaciones con Spring.
+
+**Tecnologías:** Java · Spring
+
+### [Persistencia](https://github.com/MarkBettley/persistencia)
+
+Ejercicios relacionados con persistencia y acceso a datos desde Java.
+
+**Tecnologías:** Java · SQL · Persistencia
+
+---
+
+## ⚛️ JavaScript, React & TypeScript
 
 ### [Apple Music Clone](https://github.com/MarkBettley/apple-music-clone)
-Etapa inicial del proyecto de interfaz inspirado en Apple Music.
 
-**Tecnologías:** JavaScript · HTML · CSS
+Aplicación React inspirada en Apple Music con búsqueda de contenido musical, navegación entre vistas, biblioteca dinámica y consumo de API externa.
 
-### [TV Show Explorer](https://github.com/MarkBettley/tvshow-explorer)
-Proyecto web para exploración de contenido de televisión desarrollado con JavaScript.
+**Tecnologías:** React · JavaScript · React Router · Fetch API · Axios · Styled Components
 
-**Tecnologías:** JavaScript · HTML · CSS
+### [TV Shows Explorer](https://github.com/MarkBettley/tvshow-explorer)
+
+Aplicación para explorar y buscar series mediante TVMaze, incluyendo consulta de detalles y reparto.
+
+**Tecnologías:** JavaScript · Axios · TVMaze API · Sass · HTML5
 
 ### [TypeScript](https://github.com/MarkBettley/Typescripe)
-Ejercicios y prácticas de programación utilizando TypeScript.
 
-**Tecnologías:** TypeScript
+Ejercicios desarrollados con TypeScript enfocados en tipado, validación de datos y manejo de errores.
+
+**Tecnologías:** TypeScript · JavaScript · Node.js
 
 ### [Node Basics](https://github.com/MarkBettley/node-basics)
-Prácticas introductorias relacionadas con Node.js y desarrollo web.
 
-**Tecnologías:** Node.js · JavaScript · HTML
+Cliente de línea de comandos desarrollado con Node.js para consumir una API REST de contenido televisivo.
+
+**Tecnologías:** Node.js · JavaScript · Axios · Chalk · REST API
 
 ---
 
-## 🎨 Frontend & Web
-
-### [PsicoLab Landing](https://github.com/MarkBettley/psicolab-landing)
-Landing page desarrollada para un proyecto relacionado con servicios de psicología.
-
-**Tecnologías:** HTML · CSS · JavaScript
+## 🎨 Frontend
 
 ### [Disney+ Clone](https://github.com/MarkBettley/disney-plus-clone)
-Recreación de una interfaz inspirada en Disney+ como ejercicio de desarrollo frontend.
 
-**Tecnologías:** HTML · CSS
+Aplicación web inspirada en Disney+ que consume la API de TVMaze para mostrar contenido dinámico.
+
+**Tecnologías:** JavaScript · Axios · TVMaze API · Sass · HTML5
 
 ### [Xbox Store](https://github.com/MarkBettley/xbox-store)
-Proyecto frontend inspirado en una tienda digital de videojuegos.
 
-**Tecnologías:** HTML · CSS
+Tienda web inspirada en Xbox con catálogo, páginas de producto, carrito de compras y persistencia mediante localStorage.
+
+**Tecnologías:** JavaScript · Sass · localStorage · HTML5 · Firebase Hosting
 
 ### [Mac](https://github.com/MarkBettley/Mac)
-Proyecto de maquetación y estilos web desarrollado utilizando SCSS.
 
-**Tecnologías:** SCSS · HTML
+Proyecto de maquetación web y estilos desarrollado utilizando Sass/SCSS.
 
-### [Accesibilidad en Sitios Web](https://github.com/MarkBettley/Accesibilidad-en-Sitios-Web)
-Material y ejercicios relacionados con accesibilidad aplicada al desarrollo web.
-
-### [Examen de Accesibilidad](https://github.com/MarkBettley/examen-accesibilidad)
-Proyecto práctico sobre implementación de conceptos de accesibilidad web.
-
-**Tecnologías:** HTML · CSS
+**Tecnologías:** HTML · SCSS · CSS
 
 ---
 
-## 🧠 Psicología + Tecnología
+## 🧠 Behavioral Science + Technology
 
-### [Entrenamiento Psicoterapia](https://github.com/MarkBettley/Entrenamiento-Psicoterapia)
-Proyecto web relacionado con entrenamiento y recursos para psicoterapia.
+Mi formación en Psicología y Neuropsicología aporta una perspectiva adicional para trabajar con problemas relacionados con comportamiento humano, experiencia de usuario y datos.
 
-**Tecnologías:** HTML · Web
+Áreas de interés:
 
-### [Mente en Contexto](https://github.com/MarkBettley/mente-en-contexto)
-Proyecto digital relacionado con psicología y divulgación.
+- Behavioral Data
+- Human-centered technology
+- Applied AI
+- Product Analytics
+- Data Analytics
+- Digital behavioral products
+- Software aplicado a ciencias del comportamiento
 
-**Tecnologías:** HTML · Web
+---
 
-### [Chatbot Examen](https://github.com/MarkBettley/chatbot-examen)
-Proyecto académico de interfaz web relacionado con el desarrollo de un chatbot.
+## 🎓 Formación
 
-**Tecnologías:** HTML · Web
+**Maestría en Neuropsicología**  
+Instituto de Posgrado en Psicoterapia Cognitivo-Conductual · 2021–2024
 
-### [Alvarant2](https://github.com/MarkBettley/Alvarant2)
-Proyecto web desarrollado como parte de mi práctica y formación.
+**Licenciatura en Psicología**  
+Centro Universitario Siglo XXI · 2020
 
-**Tecnologías:** HTML · Web
+**Formación técnica**
+
+- Full Stack JavaScript / Java
+- Backend Python
+- Desarrollo web
+- Programación y análisis de datos
 
 ---
 
@@ -175,4 +223,4 @@ Proyecto web desarrollado como parte de mi práctica y formación.
 
 ---
 
-> Este perfil reúne proyectos académicos, ejercicios de formación y proyectos personales desarrollados durante mi aprendizaje en desarrollo Full Stack, backend y tecnologías de datos.
+> Este perfil reúne proyectos académicos y personales desarrollados durante mi formación en desarrollo Full Stack, Backend, Data y tecnologías aplicadas.
