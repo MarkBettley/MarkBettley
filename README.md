@@ -171,7 +171,7 @@ Tienda web inspirada en Xbox con catálogo, páginas de producto, carrito de com
 
 ## 🚀 Proyectos aplicados a ciencias del comportamiento
 
-### BehaviorOS
+### [BehaviorOS](https://github.com/MarkBettley/BehaviorOS)
 
 Proyecto de software orientado a integrar tecnología y análisis del comportamiento humano.
 
