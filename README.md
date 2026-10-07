@@ -169,6 +169,22 @@ Tienda web inspirada en Xbox con catálogo, páginas de producto, carrito de com
 
 ---
 
+## 🚀 Proyectos aplicados a ciencias del comportamiento
+
+### BehaviorOS
+
+Proyecto de software orientado a integrar tecnología y análisis del comportamiento humano.
+
+**Áreas:** Desarrollo de software · Ciencias del comportamiento · Sistemas de información
+
+### [Plataforma de Gestión Psicoeducativa](https://github.com/MarkBettley/plataforma-gestion-psicoeducativa)
+
+Aplicación web para gestionar información escolar, visitas e intervenciones psicoeducativas, con herramientas de seguimiento y visualización de datos.
+
+**Áreas:** Desarrollo web · Gestión educativa · Visualización de datos
+
+---
+
 ## 🧠 Behavioral Science + Technology
 
 Mi formación en Psicología y Neuropsicología aporta una perspectiva adicional para trabajar con problemas relacionados con comportamiento humano, experiencia de usuario y datos.
